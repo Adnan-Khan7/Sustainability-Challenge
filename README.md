@@ -12,9 +12,11 @@ He has been working as AI Trainee Engineer at MTECHUB Pvt Ltd. Also, he worked o
 
 ## Problem Statement
 More than 26 million tons of CO2 per year arises from fossil fuel used in "Motor vehicle production“ globally. The goal of this project is to track efficiently the CO<sub>2</sub> Emissions from cars and in turn provide a solution to reduce air pollution in UAE and make it among the cleanest countries in the world. This can be done by creating demand for public transport, and improving the system further using state-of-the-art technologies such as Blockchain, IoT & Artificial Intelligence.
+
 ## Target Beneficiers
 ## Proposed Solution
 ## Solution Architecture
+![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Solution_architecture.png)
 ## Operating Model & Ecosystem Partners
 ## Financial Analysis
 ## High Level Execution Roadmap
