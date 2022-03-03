@@ -1,4 +1,4 @@
-# Smart Transportation System for Decreased CO<sub>2</sub>
+# Smart Public Transportation System
 
 
 ## Introduction of the Team Members
