@@ -3,7 +3,6 @@
 
 ## Introduction of the Team Members
 #### Adnan Khan
-##### Bio
 Adnan Khan is a Postgraduate student at Mohamed Bin Zayed University of Artificial Intelligence. He holds a Bachelor's in Computer Engineering degree from Department of Electrical and Computer Engineering at COMSATS University Islamabad. He has ability to clearly communicate concepts, complex ideas, and conclusions both orally and in the form of technical reports.
 
 ##### Khaled Dawoud
