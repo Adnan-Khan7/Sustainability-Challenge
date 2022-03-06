@@ -3,7 +3,7 @@
 
 ## Introduction of the Team Members
 #### Adnan Khan
-Adnan Khan is a Postgraduate student at Mohamed Bin Zayed University of Artificial Intelligence. He holds a Bachelor's in Computer Engineering degree from Department of Electrical and Computer Engineering at COMSATS University Islamabad. He has ability to clearly communicate concepts, complex ideas, and conclusions both orally and in the form of technical reports. He has been working as AI Trainee Engineer at MTECHUB Pvt Ltd. Also, he worked on developing a solution for car accidents on mountainous curves as a final year thesis project. [View the Accident Prevention System on Mountainous Curves](https://drive.google.com/file/d/1hiR9v_JrJuvQYEEBxlj14B1H2r4USp6l/view)
+Adnan Khan is a Postgraduate student of Computer Vision Department at Mohamed Bin Zayed University of Artificial Intelligence. He holds a Bachelor's in Computer Engineering degree from Department of Electrical and Computer Engineering at COMSATS University Islamabad. He has ability to clearly communicate concepts, complex ideas, and conclusions both orally and in the form of technical reports. He has been working as AI Trainee Engineer at MTECHUB Pvt Ltd. Also, he worked on developing a solution for car accidents on mountainous curves as a final year thesis project. [View the Accident Prevention System on Mountainous Curves](https://drive.google.com/file/d/1hiR9v_JrJuvQYEEBxlj14B1H2r4USp6l/view)
 
 
 ##### Khaled Dawoud
