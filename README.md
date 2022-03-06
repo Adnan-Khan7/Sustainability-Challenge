@@ -23,9 +23,6 @@ Our Smart Public Transportation system will help by Improving the air quality we
 ## Solution Architecture
 ![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Solution_architecture.png)
 
-### Blockchain Solution Architecture
-![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Screen Shot 2022-03-06 at 10.56.02 PM.png)
-
 ## Operating Model & Ecosystem Partners
 ## Financial Analysis
 The estimated numbers in the business model of our product shows a booming revenue. The average number of fuel-based cars that enter Dubai on daily basis is more than three hundred twenty thousand cars.By taxing only 0.5$ per fuel-based vehicle and after deducting the development and maintenance costs, the system is capable of generating approximately 57.5 million dollars only in Dubai. This amount can be used by govt. to give loans to people for buying electric vehicles and move towards using green energy.
