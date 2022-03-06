@@ -5,12 +5,14 @@
 #### Adnan Khan
 ##### Bio
 Adnan Khan is a Postgraduate student at Mohamed Bin Zayed University of Artificial Intelligence. He holds a Bachelor's in Computer Engineering degree from Department of Electrical and Computer Engineering at COMSATS University Islamabad. He has ability to clearly communicate concepts, complex ideas, and conclusions both orally and in the form of technical reports.
+
+##### Khaled Dawoud
+Khaled Dawoud is a MSc student in computer vision at MBZUAI. Khaled holds BSc in electronics and telecommunication from King Abdulaziz University, Saudi Arabia. He has 4 years of experience working in leading GCC telecom companies such as Saudi Telecom, STC Solutions, and Al-Taknia for telecommunication. His research focuses on blockchain, wearable sensing devices, digital twin, object detection, segmentation and tracking.
+
+
 ##### Projects and Work Experience
 He has been working as AI Trainee Engineer at MTECHUB Pvt Ltd. Also, he worked on developing a solution for car accidents on mountainous curves as a final year thesis project. [View the Accident Prevention System on Mountainous Curves](https://drive.google.com/file/d/1hiR9v_JrJuvQYEEBxlj14B1H2r4USp6l/view)
 
-##### Khaled Dawoud
-##### Bio
-Khaled Dawoud is a MSc student in computer vision at MBZUAI. Khaled holds BSc in electronics and telecommunication from King Abdulaziz University, Saudi Arabia. He has 4 years of experience working in leading GCC telecom companies such as Saudi Telecom, STC Solutions, and Al-Taknia for telecommunication. His research focuses on blockchain, wearable sensing devices, digital twin, object detection, segmentation and tracking.
 
 ## Problem Statement
 More than 26 million tons of CO2 per year arises from fossil fuel used in "Motor vehicle production“ globally. The goal of this project is to track efficiently the CO<sub>2</sub> Emissions from cars and in turn provide a solution to reduce air pollution in UAE and make it among the cleanest countries in the world. This can be done by creating demand for public transport, and improving the system further using state-of-the-art technologies such as Blockchain, IoT & Artificial Intelligence.
