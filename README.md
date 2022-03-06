@@ -26,7 +26,7 @@ Our Smart Public Transportation system will not only help by improving the air q
 To help people make an eco friendly choice we propose a solution where we incentivize and improve the public transportation system using state-of-the-art technologies in AI and Blockchain. Studies show that stringent vehicle regulations successfully provide air quality benefits. Our Smart Public Transportation System leverages the current license plate detection technology and combine it with the blockchain to levy tax on the fuel based cars in order to promote the use of Zero Emission Vehicles and public transport. This will improve the air quality in UAE as observed in other countries. The tax generated from the system can be used in multiple applications to further enhance the customer experience.
 
 ## Solution Architecture
-![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Solution_architecture.png)
+![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/solution_arch.png)
 Our solution comprises of four important modules:
 1. The first being the Automatic Number Plate Recognition or the ANPR technology. This processes the video frames captured by the ANPR cameras mounted on the roads and processes the frames to correctly detect the license plates and send it to the second module which is the Blockchain in real time. 
 2. The detected license plates will be stored in the Blockchain and will be used to calculate tax for the fuel based cars. 
