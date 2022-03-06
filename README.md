@@ -21,8 +21,10 @@ Our Smart Public Transportation system will help by Improving the air quality we
 ## Proposed Solution
 
 ## Solution Architecture
-
 ![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Solution_architecture.png)
+
+### Blockchain Solution Architecture
+![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/Screen Shot 2022-03-06 at 10.56.02 PM.png)
 
 ## Operating Model & Ecosystem Partners
 ## Financial Analysis
