@@ -3,7 +3,7 @@
 
 ## Introduction of the Team Members
 
-####Umaima Rahman
+#### Umaima Rahman
 Umaima Rahman is a Computer Vision PhD student at Mohamed Bin Zayed University of Artificial Intelligence. She holds dual Masters degree one in Computer Science and Engineering (Master of Technology) and the other in Computer and Information Science (Master of Science) from University of Calcutta, India. She has worked with IBM for 1.5 years and also worked as a guest researcher in applications of Machine Learning in Bioinformatics at Bose Institute. Her research interests lies at the intersection of deep learning and computer vision which includes deep learning based object detection, segmentation, domain adaptation, continual learning to name a few. 
 
 #### Adnan Khan
