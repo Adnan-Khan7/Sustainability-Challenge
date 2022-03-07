@@ -34,7 +34,7 @@ Our solution comprises of four important modules:
 4. Lastly, obtaining commuter's location data we can use AI algorithms to smartly optimize the travel route in real time.
 
 ## Financial Analysis
-The estimated numbers in the business model of our product shows a booming revenue. The average number of fuel-based cars that enter Dubai on daily basis is more than three hundred twenty thousand cars.By taxing only 0.5$ per fuel-based vehicle and after deducting the development and maintenance costs, the system is capable of generating approximately 57.5 million dollars only in Dubai. This amount can be used by govt. to give loans to people for buying electric vehicles and move towards using green energy.
+The estimated numbers in the business model of our product shows a booming revenue. The average number of fuel-based cars that enter Dubai on daily basis is more than three hundred twenty thousand cars.By taxing only 0.5$ per fuel-based vehicle and after deducting the development and maintenance costs, the system is capable of generating approximately 57.5 /year million dollars only in Dubai. This amount can be used by govt. to encourage moving towards green energy and enhance the customer experience.
 
 ![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/business_model.png)
 
