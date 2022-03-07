@@ -40,3 +40,8 @@ The estimated numbers in the business model of our product shows a booming reven
 
 ## High Level Execution Roadmap
 
+The project is divided into the following five phases.
+Phase 1 and Phase 2 are successfully completed. Prototype development (Phase 3) is 50% completed. 
+
+![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/map.png)
+
