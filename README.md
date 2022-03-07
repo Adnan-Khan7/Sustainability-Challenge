@@ -29,7 +29,7 @@ To help people make an eco friendly choice we propose a solution where we incent
 ![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/solution_arch.png)
 Our solution comprises of four important modules:
 1. The first being the Automatic Number Plate Recognition or the ANPR technology. This processes the video frames captured by the ANPR cameras mounted on the roads and processes the frames to correctly detect the license plates and send it to the second module which is the Blockchain in real time. 
-2. The detected license plates will be stored in the Blockchain and will be used to calculate tax for the fuel based cars. 
+2. The detected license plates will be stored in the Blockchain and the pollution amount will be calculated daily. If pollution amount exceeds predefined threshold, certain regulations may take place such as taxing fuel-based vehicles.
 3. The tax generated will be used to provide incentives and encourage people for taking the public transport through a smartphone application.
 4. Lastly, obtaining commuter's location data we can use AI algorithms to smartly optimize the travel route in real time.
 
