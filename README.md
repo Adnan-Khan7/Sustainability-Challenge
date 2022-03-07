@@ -9,8 +9,7 @@ Umaima Rahman is a Computer Vision PhD student at Mohamed Bin Zayed University o
 #### Adnan Khan
 Adnan Khan is a Postgraduate student of Computer Vision Department at Mohamed Bin Zayed University of Artificial Intelligence. He holds a Bachelor's in Computer Engineering degree from Department of Electrical and Computer Engineering at COMSATS University Islamabad. He has ability to clearly communicate concepts, complex ideas, and conclusions both orally and in the form of technical reports. He has been working as AI Trainee Engineer at MTECHUB Pvt Ltd. Also, he worked on developing a solution for car accidents on mountainous curves as a final year thesis project. [View the Accident Prevention System on Mountainous Curves](https://drive.google.com/file/d/1hiR9v_JrJuvQYEEBxlj14B1H2r4USp6l/view)
 
-
-##### Khaled Dawoud
+#### Khaled Dawoud
 Khaled Dawoud is a MSc student in computer vision at MBZUAI. Khaled holds BSc in electronics and telecommunication from King Abdulaziz University, Saudi Arabia. He has 4 years of experience working in leading GCC telecom companies such as Saudi Telecom, STC Solutions, and Al-Taknia for telecommunication. His research focuses on blockchain, wearable sensing devices, digital twin, object detection, segmentation and tracking.
 
 ## Problem Statement
@@ -26,7 +25,7 @@ Our Smart Public Transportation system will not only help by improving the air q
 To help people make an eco friendly choice we propose a solution where we incentivize and improve the public transportation system using state-of-the-art technologies in AI and Blockchain. Studies show that stringent vehicle regulations successfully provide air quality benefits. Our Smart Public Transportation System leverages the current license plate detection technology and combine it with the blockchain to levy tax on the fuel based cars in order to promote the use of Zero Emission Vehicles and public transport. This will improve the air quality in UAE as observed in other countries. The tax generated from the system can be used in multiple applications to further enhance the customer experience.
 
 ## Solution Architecture
-![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/solution_arch.png)
+![alt text](https://github.com/Adnan-Khan7/Sustainability-Challenge/blob/main/Images/solution11.png)
 Our solution comprises of four important modules:
 1. The first being the Automatic Number Plate Recognition or the ANPR technology. This processes the video frames captured by the ANPR cameras mounted on the roads and processes the frames to correctly detect the license plates and send it to the second module which is the Blockchain in real time. 
 2. The detected license plates will be stored in the Blockchain and the pollution amount will be calculated daily. If pollution amount exceeds predefined threshold, certain regulations may take place such as taxing fuel-based vehicles.
